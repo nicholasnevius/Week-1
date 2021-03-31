@@ -1,0 +1,16 @@
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\palindrome.exe
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\palindrome.deps.json
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\palindrome.runtimeconfig.json
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\palindrome.runtimeconfig.dev.json
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\palindrome.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\ref\palindrome.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\bin\Debug\net5.0\palindrome.pdb
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.csprojAssemblyReference.cache
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.AssemblyInfo.cs
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\ref\palindrome.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.pdb
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\palindrome\palindrome\obj\Debug\net5.0\palindrome.genruntimeconfig.cache

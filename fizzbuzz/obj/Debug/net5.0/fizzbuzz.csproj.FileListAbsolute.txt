@@ -1,0 +1,16 @@
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\fizzbuzz.exe
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\fizzbuzz.deps.json
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\fizzbuzz.runtimeconfig.json
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\fizzbuzz.runtimeconfig.dev.json
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\fizzbuzz.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\ref\fizzbuzz.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\bin\Debug\net5.0\fizzbuzz.pdb
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.csprojAssemblyReference.cache
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\ref\fizzbuzz.dll
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.pdb
+C:\Users\mnevius\OneDrive\Desktop\Nick\c#\Week1\Week-1\fizzbuzz\obj\Debug\net5.0\fizzbuzz.genruntimeconfig.cache
